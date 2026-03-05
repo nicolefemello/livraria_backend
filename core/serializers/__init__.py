@@ -1,5 +1,5 @@
 from .author import AuthorSeriazlizer
-from .book import BookSeriazlizer
+from .book import BookSeriazlizer, BookListRetrieveSerializer
 from .category import CategorySeriazlizer
 from .publisher import PublisherSerializer
 from .user import UserSerializer

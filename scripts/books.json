@@ -1,0 +1,607 @@
+// python manage.py loaddata scripts/books.json
+[
+  {
+    "model": "core.book",
+    "fields": {
+      "title": "Echoes of the Empire",
+      "isbn": "9780000000001",
+      "quantity": 12,
+      "price": 39.9,
+      "category": 1,
+      "publisher": 1,
+      "authors": [4]
+    }
+  },
+  {
+    "model": "core.book",
+    "fields": {
+      "title": "Silent Hearts",
+      "isbn": "9780000000002",
+      "quantity": 8,
+      "price": 29.9,
+      "category": 2,
+      "publisher": 2,
+      "authors": [5]
+    }
+  },
+  {
+    "model": "core.book",
+    "fields": {
+      "title": "Shadow Protocol",
+      "isbn": "9780000000003",
+      "quantity": 15,
+      "price": 45.5,
+      "category": 3,
+      "publisher": 3,
+      "authors": [4]
+    }
+  },
+  {
+    "model": "core.book",
+    "fields": {
+      "title": "Dragon's Awakening",
+      "isbn": "9780000000004",
+      "quantity": 10,
+      "price": 49.9,
+      "category": 4,
+      "publisher": 4,
+      "authors": [9]
+    }
+  },
+  {
+    "model": "core.book",
+    "fields": {
+      "title": "Orbit of Destiny",
+      "isbn": "9780000000005",
+      "quantity": 7,
+      "price": 42.0,
+      "category": 5,
+      "publisher": 5,
+      "authors": [8]
+    }
+  },
+  {
+    "model": "core.book",
+    "fields": {
+      "title": "Whispers in the Dark",
+      "isbn": "9780000000006",
+      "quantity": 11,
+      "price": 34.9,
+      "category": 6,
+      "publisher": 6,
+      "authors": [10]
+    }
+  },
+  {
+    "model": "core.book",
+    "fields": {
+      "title": "The Forgotten Crown",
+      "isbn": "9780000000007",
+      "quantity": 9,
+      "price": 38.5,
+      "category": 7,
+      "publisher": 7,
+      "authors": [7]
+    }
+  },
+  {
+    "model": "core.book",
+    "fields": {
+      "title": "Fragments of Time",
+      "isbn": "9780000000008",
+      "quantity": 13,
+      "price": 27.9,
+      "category": 8,
+      "publisher": 8,
+      "authors": [3]
+    }
+  },
+  {
+    "model": "core.book",
+    "fields": {
+      "title": "Life of a Visionary",
+      "isbn": "9780000000009",
+      "quantity": 6,
+      "price": 44.9,
+      "category": 9,
+      "publisher": 9,
+      "authors": [1]
+    }
+  },
+  {
+    "model": "core.book",
+    "fields": {
+      "title": "Kitchen of Wonders",
+      "isbn": "9780000000010",
+      "quantity": 20,
+      "price": 31.9,
+      "category": 10,
+      "publisher": 1,
+      "authors": [2]
+    }
+  },
+
+  {
+    "model": "core.book",
+    "fields": {
+      "title": "Midnight Library Road",
+      "isbn": "9780000000011",
+      "quantity": 14,
+      "price": 36.9,
+      "category": 1,
+      "publisher": 2,
+      "authors": [1]
+    }
+  },
+  {
+    "model": "core.book",
+    "fields": {
+      "title": "Love Beyond Winter",
+      "isbn": "9780000000012",
+      "quantity": 10,
+      "price": 28.5,
+      "category": 2,
+      "publisher": 3,
+      "authors": [2]
+    }
+  },
+  {
+    "model": "core.book",
+    "fields": {
+      "title": "The Last Cipher",
+      "isbn": "9780000000013",
+      "quantity": 12,
+      "price": 47.0,
+      "category": 3,
+      "publisher": 4,
+      "authors": [4]
+    }
+  },
+  {
+    "model": "core.book",
+    "fields": {
+      "title": "Realm of Silver Fire",
+      "isbn": "9780000000014",
+      "quantity": 9,
+      "price": 51.9,
+      "category": 4,
+      "publisher": 5,
+      "authors": [9]
+    }
+  },
+  {
+    "model": "core.book",
+    "fields": {
+      "title": "Galactic Echo",
+      "isbn": "9780000000015",
+      "quantity": 11,
+      "price": 43.9,
+      "category": 5,
+      "publisher": 6,
+      "authors": [8]
+    }
+  },
+  {
+    "model": "core.book",
+    "fields": {
+      "title": "Night of Hollow Souls",
+      "isbn": "9780000000016",
+      "quantity": 7,
+      "price": 35.9,
+      "category": 6,
+      "publisher": 7,
+      "authors": [10]
+    }
+  },
+  {
+    "model": "core.book",
+    "fields": {
+      "title": "Empire of Ashes",
+      "isbn": "9780000000017",
+      "quantity": 13,
+      "price": 40.9,
+      "category": 7,
+      "publisher": 8,
+      "authors": [7]
+    }
+  },
+  {
+    "model": "core.book",
+    "fields": {
+      "title": "Stories from the River",
+      "isbn": "9780000000018",
+      "quantity": 16,
+      "price": 26.9,
+      "category": 8,
+      "publisher": 9,
+      "authors": [3]
+    }
+  },
+  {
+    "model": "core.book",
+    "fields": {
+      "title": "Journey of a Genius",
+      "isbn": "9780000000019",
+      "quantity": 5,
+      "price": 46.9,
+      "category": 9,
+      "publisher": 1,
+      "authors": [1]
+    }
+  },
+  {
+    "model": "core.book",
+    "fields": {
+      "title": "Flavors of the World",
+      "isbn": "9780000000020",
+      "quantity": 18,
+      "price": 33.9,
+      "category": 10,
+      "publisher": 1,
+      "authors": [2]
+    }
+  },
+
+  {
+    "model": "core.book",
+    "fields": {
+      "title": "The Hidden Letter",
+      "isbn": "9780000000021",
+      "quantity": 10,
+      "price": 37.9,
+      "category": 1,
+      "publisher": 3,
+      "authors": [1]
+    }
+  },
+  {
+    "model": "core.book",
+    "fields": {
+      "title": "Summer Promises",
+      "isbn": "9780000000022",
+      "quantity": 8,
+      "price": 29.9,
+      "category": 2,
+      "publisher": 4,
+      "authors": [5]
+    }
+  },
+  {
+    "model": "core.book",
+    "fields": {
+      "title": "Crimson Target",
+      "isbn": "9780000000023",
+      "quantity": 14,
+      "price": 46.5,
+      "category": 3,
+      "publisher": 5,
+      "authors": [4]
+    }
+  },
+  {
+    "model": "core.book",
+    "fields": {
+      "title": "Sword of Eternity",
+      "isbn": "9780000000024",
+      "quantity": 9,
+      "price": 52.0,
+      "category": 4,
+      "publisher": 6,
+      "authors": [9]
+    }
+  },
+  {
+    "model": "core.book",
+    "fields": {
+      "title": "Stars Beyond Silence",
+      "isbn": "9780000000025",
+      "quantity": 11,
+      "price": 41.9,
+      "category": 5,
+      "publisher": 7,
+      "authors": [8]
+    }
+  },
+  {
+    "model": "core.book",
+    "fields": {
+      "title": "The Haunted Manor",
+      "isbn": "9780000000026",
+      "quantity": 7,
+      "price": 36.0,
+      "category": 6,
+      "publisher": 8,
+      "authors": [10]
+    }
+  },
+  {
+    "model": "core.book",
+    "fields": {
+      "title": "Chronicles of Valor",
+      "isbn": "9780000000027",
+      "quantity": 12,
+      "price": 39.9,
+      "category": 7,
+      "publisher": 9,
+      "authors": [7]
+    }
+  },
+  {
+    "model": "core.book",
+    "fields": {
+      "title": "Tales at Sunset",
+      "isbn": "9780000000028",
+      "quantity": 15,
+      "price": 25.9,
+      "category": 8,
+      "publisher": 1,
+      "authors": [3]
+    }
+  },
+  {
+    "model": "core.book",
+    "fields": {
+      "title": "Mind of a Leader",
+      "isbn": "9780000000029",
+      "quantity": 6,
+      "price": 45.0,
+      "category": 9,
+      "publisher": 1,
+      "authors": [1]
+    }
+  },
+  {
+    "model": "core.book",
+    "fields": {
+      "title": "Baking Magic",
+      "isbn": "9780000000030",
+      "quantity": 19,
+      "price": 30.9,
+      "category": 10,
+      "publisher": 2,
+      "authors": [2]
+    }
+  },
+
+  {
+    "model": "core.book",
+    "fields": {
+      "title": "Road to Aurora",
+      "isbn": "9780000000031",
+      "quantity": 10,
+      "price": 38.9,
+      "category": 1,
+      "publisher": 4,
+      "authors": [1]
+    }
+  },
+  {
+    "model": "core.book",
+    "fields": {
+      "title": "Promise of the Sea",
+      "isbn": "9780000000032",
+      "quantity": 8,
+      "price": 27.9,
+      "category": 2,
+      "publisher": 5,
+      "authors": [5]
+    }
+  },
+  {
+    "model": "core.book",
+    "fields": {
+      "title": "The Silent Pursuit",
+      "isbn": "9780000000033",
+      "quantity": 13,
+      "price": 44.9,
+      "category": 3,
+      "publisher": 6,
+      "authors": [4]
+    }
+  },
+  {
+    "model": "core.book",
+    "fields": {
+      "title": "Kingdom of Embers",
+      "isbn": "9780000000034",
+      "quantity": 9,
+      "price": 50.9,
+      "category": 4,
+      "publisher": 7,
+      "authors": [9]
+    }
+  },
+  {
+    "model": "core.book",
+    "fields": {
+      "title": "Voyage to Andromeda",
+      "isbn": "9780000000035",
+      "quantity": 11,
+      "price": 42.5,
+      "category": 5,
+      "publisher": 8,
+      "authors": [8]
+    }
+  },
+  {
+    "model": "core.book",
+    "fields": {
+      "title": "The Dark Corridor",
+      "isbn": "9780000000036",
+      "quantity": 6,
+      "price": 35.5,
+      "category": 6,
+      "publisher": 9,
+      "authors": [10]
+    }
+  },
+  {
+    "model": "core.book",
+    "fields": {
+      "title": "War of Forgotten Lands",
+      "isbn": "9780000000037",
+      "quantity": 12,
+      "price": 41.0,
+      "category": 7,
+      "publisher": 1,
+      "authors": [7]
+    }
+  },
+  {
+    "model": "core.book",
+    "fields": {
+      "title": "Moonlight Stories",
+      "isbn": "9780000000038",
+      "quantity": 15,
+      "price": 26.5,
+      "category": 8,
+      "publisher": 1,
+      "authors": [3]
+    }
+  },
+  {
+    "model": "core.book",
+    "fields": {
+      "title": "Portrait of Courage",
+      "isbn": "9780000000039",
+      "quantity": 7,
+      "price": 43.9,
+      "category": 9,
+      "publisher": 2,
+      "authors": [1]
+    }
+  },
+  {
+    "model": "core.book",
+    "fields": {
+      "title": "Secrets of Italian Cooking",
+      "isbn": "9780000000040",
+      "quantity": 18,
+      "price": 32.9,
+      "category": 10,
+      "publisher": 3,
+      "authors": [2]
+    }
+  },
+
+  {
+    "model": "core.book",
+    "fields": {
+      "title": "Paths of Destiny",
+      "isbn": "9780000000041",
+      "quantity": 10,
+      "price": 37.5,
+      "category": 1,
+      "publisher": 5,
+      "authors": [1]
+    }
+  },
+  {
+    "model": "core.book",
+    "fields": {
+      "title": "Letters to Juliet",
+      "isbn": "9780000000042",
+      "quantity": 9,
+      "price": 28.9,
+      "category": 2,
+      "publisher": 6,
+      "authors": [5]
+    }
+  },
+  {
+    "model": "core.book",
+    "fields": {
+      "title": "The Black Operation",
+      "isbn": "9780000000043",
+      "quantity": 14,
+      "price": 46.9,
+      "category": 3,
+      "publisher": 7,
+      "authors": [4]
+    }
+  },
+  {
+    "model": "core.book",
+    "fields": {
+      "title": "Forest of Myth",
+      "isbn": "9780000000044",
+      "quantity": 8,
+      "price": 49.9,
+      "category": 4,
+      "publisher": 8,
+      "authors": [9]
+    }
+  },
+  {
+    "model": "core.book",
+    "fields": {
+      "title": "Beyond the Nebula",
+      "isbn": "9780000000045",
+      "quantity": 11,
+      "price": 41.9,
+      "category": 5,
+      "publisher": 9,
+      "authors": [8]
+    }
+  },
+  {
+    "model": "core.book",
+    "fields": {
+      "title": "The Last Scream",
+      "isbn": "9780000000046",
+      "quantity": 7,
+      "price": 36.9,
+      "category": 6,
+      "publisher": 1,
+      "authors": [10]
+    }
+  },
+  {
+    "model": "core.book",
+    "fields": {
+      "title": "Kingdoms of the Past",
+      "isbn": "9780000000047",
+      "quantity": 12,
+      "price": 39.5,
+      "category": 7,
+      "publisher": 1,
+      "authors": [7]
+    }
+  },
+  {
+    "model": "core.book",
+    "fields": {
+      "title": "Short Nights, Long Tales",
+      "isbn": "9780000000048",
+      "quantity": 16,
+      "price": 24.9,
+      "category": 8,
+      "publisher": 2,
+      "authors": [3]
+    }
+  },
+  {
+    "model": "core.book",
+    "fields": {
+      "title": "Rise of a Dreamer",
+      "isbn": "9780000000049",
+      "quantity": 6,
+      "price": 44.9,
+      "category": 9,
+      "publisher": 3,
+      "authors": [1]
+    }
+  },
+  {
+    "model": "core.book",
+    "fields": {
+      "title": "The Modern Kitchen",
+      "isbn": "9780000000050",
+      "quantity": 20,
+      "price": 33.5,
+      "category": 10,
+      "publisher": 4,
+      "authors": [2]
+    }
+  }
+]
